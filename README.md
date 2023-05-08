@@ -1,4 +1,6 @@
-# Not-oModerator (Scroll down for how-to)
+# Not-oModerator 
+
+(Scroll down for 'how-to')
 
 Get rid of the AutoMod comment that sits atop so many comment sections wasting everyones time. 
 
