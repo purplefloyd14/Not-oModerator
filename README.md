@@ -10,7 +10,7 @@ How to use this:
 
 Note: this is for users of 'old reddit'. If you don't know what that is I feel sorry for you
 
-1. Click the green button that says "code" with is up and to the right. 
+1. Click the green button that says "code" that is above this text box, or click [here](https://github.com/purplefloyd14/Not-oModerator/archive/refs/heads/main.zip) (if you click here you can ignore step two because download will start automatically). 
 2. Select the last item on the list "download zip". 
 3. Go to you downloads folder and click the zip that was just downloaded. This will create an 'unzipped version' next to it. 
 4. Open chrome and go to chrome://extensions/ (put this into the url bar as if it were a website)
