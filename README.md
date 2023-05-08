@@ -17,7 +17,7 @@ This is my first chrome extension and a very simple one. I encourage everyone to
 
 
 
-# How to use this: 
+# How to install this chrome extension: 
 
 Note: this is for users of 'old reddit'. If you don't know what that is I feel sorry for you
 
@@ -29,3 +29,8 @@ Note: this is for users of 'old reddit'. If you don't know what that is I feel s
 6. On the top left of the page, click the button that reads "load unpacked"
 7. Select the 'unzipped version' of the extension that emerged when you clicked on the zip file that you downloaded from this repo 
 8. ta-da! All done. Now go enjoy reddit without the automoderator popping up on every stinkin' page telling you nothing interesting or important 
+
+
+# Questions? Comments?
+
+You can comment on this repo or message me on reddit @ u/4vrf. If you see any AutoMod posts that survive my extension, let me know and I will see about adding them. Thanks! 
