@@ -1,4 +1,5 @@
 # Not-oModerator (Scroll down for how-to)
+
 Get rid of the AutoMod comment that sits atop so many comment sections wasting everyones time. 
 
 
@@ -6,7 +7,7 @@ Get rid of the AutoMod comment that sits atop so many comment sections wasting e
 
 
 
-How to use this: 
+# How to use this: 
 
 Note: this is for users of 'old reddit'. If you don't know what that is I feel sorry for you
 
