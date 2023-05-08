@@ -4,6 +4,13 @@
 
 Get rid of the AutoMod comment that sits atop so many comment sections wasting everyones time. 
 
+# What is it? 
+This is a google chrome extension that removes the "AutoModerator" comment which is permanantly affixed to the top of so many comment sections in order to waste our time consistently. Want to see the top comment? First ignore this lazy inapplicable guidance! Well... no longer.
+
+# Note: 
+
+This is my first chrome extension and a very simple one. I encourage everyone to take a look at the code. It merely identifies an HTML element based on whether it has a class "moderator" and a text of "mod" or "bot". If it meets those criteria: I anhilitate it. No mercy. Enjoy!!
+
 
 ![Screen Shot 2023-05-07 at 10 39 55 PM](https://user-images.githubusercontent.com/13709454/236721977-3aab91ba-e84b-4167-81c3-5072af27ee5d.png)
 
